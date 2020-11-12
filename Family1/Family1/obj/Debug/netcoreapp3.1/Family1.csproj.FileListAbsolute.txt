@@ -1,0 +1,13 @@
+C:\Users\nii98\source\repos\Family1\Family1\bin\Debug\netcoreapp3.1\Family1.exe
+C:\Users\nii98\source\repos\Family1\Family1\bin\Debug\netcoreapp3.1\Family1.deps.json
+C:\Users\nii98\source\repos\Family1\Family1\bin\Debug\netcoreapp3.1\Family1.runtimeconfig.json
+C:\Users\nii98\source\repos\Family1\Family1\bin\Debug\netcoreapp3.1\Family1.runtimeconfig.dev.json
+C:\Users\nii98\source\repos\Family1\Family1\bin\Debug\netcoreapp3.1\Family1.dll
+C:\Users\nii98\source\repos\Family1\Family1\bin\Debug\netcoreapp3.1\Family1.pdb
+C:\Users\nii98\source\repos\Family1\Family1\obj\Debug\netcoreapp3.1\Family1.csprojAssemblyReference.cache
+C:\Users\nii98\source\repos\Family1\Family1\obj\Debug\netcoreapp3.1\Family1.AssemblyInfoInputs.cache
+C:\Users\nii98\source\repos\Family1\Family1\obj\Debug\netcoreapp3.1\Family1.AssemblyInfo.cs
+C:\Users\nii98\source\repos\Family1\Family1\obj\Debug\netcoreapp3.1\Family1.csproj.CoreCompileInputs.cache
+C:\Users\nii98\source\repos\Family1\Family1\obj\Debug\netcoreapp3.1\Family1.dll
+C:\Users\nii98\source\repos\Family1\Family1\obj\Debug\netcoreapp3.1\Family1.pdb
+C:\Users\nii98\source\repos\Family1\Family1\obj\Debug\netcoreapp3.1\Family1.genruntimeconfig.cache
